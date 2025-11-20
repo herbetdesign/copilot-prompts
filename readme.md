@@ -161,28 +161,6 @@ Sugestão de carga: 10 horas/semana divididas em 5 blocos de 2 horas: 1 bloco te
 
 ---
 
-## Planilha semanal (resumo CSV)
-
-Semana, Tema, Objetivos, Atividades, Recursos, Horas estimadas
-1, Git/GitHub inicial, Configurar Git; criar conta e repositório, Instalar Git; criar repo; commits; push/pull; README básico, DIO Git/GitHub; docs Git, 10
-2, Python fundamentos I, Sintaxe; tipos; funções, Exercícios com listas; dicts; funções; pequenos desafios, Formação Python DIO; docs Python, 10
-3, Python fundamentos II, OOP; módulos; ambiente virtual, Classes; herança; venv; pip; scripts CLI, Formação Python DIO; docs venv/pip, 10
-4, HTML/CSS básico, Estrutura e responsividade, Semântica HTML; Flexbox/Grid; criar página pessoal, DIO HTML/CSS; MDN, 10
-5, JavaScript básico, DOM; eventos; interatividade, Manipular DOM; forms; eventos; fetch básico, DIO JavaScript; MDN, 10
-6, Django setup, Projeto e app; rotas; templates, Criar projeto Django; apps; URLs; views; templates, DIO Django; docs Django, 10
-7, Django ORM, Modelos e migrações, Criar models; migrate; admin; queries básicas, DIO Django; docs ORM, 10
-8, CRUD completo, Fluxos de criação/edição, Views (FBV/CBV); formulários; validação; testes manuais, DIO Django; docs CBV, 10
-9, Autenticação, Login; registro; permissões, Auth built-in; perfis; recuperação de senha; proteção de rotas, DIO Django; docs auth, 10
-10, API com DRF, Endpoints REST; serializers, Serializers; ViewSets; routers; status codes; testes de API, DIO DRF; docs DRF, 10
-11, Banco de dados, PostgreSQL; otimização, Configurar Postgres; docker opcional; índices; explain analyze, DIO SQL; docs Postgres, 10
-12, Front + API, Consumir API; UX básico, Fetch/axios; estados de carregamento; paginação; tratamento de erros, DIO JS; MDN; docs fetch, 10
-13, GitHub avançado, Branches; PRs; gestão de issues, Fluxo GitFlow; abrir PRs; code review; project boards, DIO Git/GitHub; docs GitHub, 10
-14, Testes, Unit e integração, pytest; Django TestCase; testes de API; cobertura mínima, DIO Testes; docs pytest/Django, 10
-15, Deploy, Publicação e variáveis de ambiente, Deploy em Railway/Render/Heroku; env vars; collectstatic; CI básico, DIO Deploy; docs providers, 10
-16, Polimento e entrevistas, README; portfólio; simulações, Melhorar README; screenshots; link do deploy; simular entrevistas; criar cases, DIO Carreira; seu GitHub, 10
-
----
-
 ## Recursos recomendados
 
 - Documentação oficial: Python, Django, Django REST Framework, PostgreSQL  
