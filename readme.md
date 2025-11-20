@@ -6,97 +6,216 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Curso Básico de Python Django para Iniciantes</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-
+  <img src="https://img.shields.io/static/v1?label=Nivel&message=B%C3%A1sico&color=E94D5F&labelColor=202024" alt="Nivel" />
 </p>
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+---
 
-<br/>
-<br/>
+### Sobre o Projeto
 
-## 💻 Sobre o Projeto
+Curso prático e orientado a projeto para iniciantes que desejam transição para desenvolvimento web full‑stack com foco em Python e Django. Do setup do ambiente ao deploy, com ênfase em GitHub, APIs com Django REST Framework e construção de um portfólio publicável.
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+---
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+### Público‑alvo e pré‑requisitos
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+- Público‑alvo: iniciantes com desejo de transição para desenvolvimento web full‑stack com foco em código.  
+- Pré‑requisitos mínimos:
+  - Lógica de programação básica
+  - Noções de terminal/linha de comando
+  - Capacidade de instalar programas no sistema operacional
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+---
 
-- _Exemplo_:
+### Objetivos do curso
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+Ao final do curso o estudante será capaz de:
+- Desenvolver aplicações web completas com Django (CRUD, autenticação, templates).  
+- Criar e documentar APIs REST usando Django REST Framework.  
+- Versionar projetos e colaborar no GitHub (branches, PRs, issues, README).  
+- Fazer deploy de aplicações em um serviço cloud gratuito.  
+- Montar e publicar um projeto de portfólio com documentação profissional.
 
-- [Outros pré-requisitos, se aplicável]
+---
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+## Estrutura do curso
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+### Módulo 0 Ambiente e GitHub (6 horas)
+- 0.1 Instalação Python e Pip  
+- 0.2 Configurar ambiente virtual (venv/virtualenv)  
+- 0.3 Instalar e configurar Git local  
+- 0.4 Criar conta GitHub e repositório inicial  
+- 0.5 Boas práticas de commits, .gitignore e README inicial  
+- 0.6 GitHub Pages (opcional) para documentação estática
 
-- [Lista das habilidades principais a serem desenvolvidas]
+Objetivo: Ambiente pronto, repositório no GitHub com README e workflow básico.
 
-  - [Subhabilidades relacionadas, se aplicável]
+---
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+### Módulo 1 Fundamentos de Python (18 horas)
+- 1.1 Tipos primitivos, variáveis e operadores  
+- 1.2 Estruturas de controle (if, for, while)  
+- 1.3 Coleções: listas, tuplas, dicionários, sets  
+- 1.4 Funções, argumentos, retorno e escopo  
+- 1.5 Módulos, pacotes e pip  
+- 1.6 Conceitos básicos de OOP: classes, métodos, herança  
+- 1.7 Exercícios práticos e pequenos scripts utilitários
 
-## 🎯 Objetivos e Resultados Esperados
+Objetivo: Domínio da sintaxe Python usada no desenvolvimento web.
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+---
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+### Módulo 2 HTML, CSS e JavaScript Básico (12 horas)
+- 2.1 Estrutura HTML semântica  
+- 2.2 CSS: layout com Flexbox e Grid, responsividade básica  
+- 2.3 Formulários HTML e validação no front-end  
+- 2.4 JavaScript: DOM, eventos e fetch/axios básico  
+- 2.5 Integração simples com API (fetch) e manipulação de respostas
+
+Objetivo: Construir interfaces simples e conectar com back‑end via HTTP.
+
+---
+
+### Módulo 3 Introdução ao Django (24 horas)
+- 3.1 Conceitos: projetos, apps, MTV (model-template-view)  
+- 3.2 Criar projeto e app Django; settings essenciais  
+- 3.3 URLs, views (FBV e CBV) e templates  
+- 3.4 Modelos e migrations (Django ORM)  
+- 3.5 Formulários Django: validation e ModelForm  
+- 3.6 Admin site customizado  
+- 3.7 Uploads de arquivo e gerenciamento de mídia estática
+
+Objetivo: Construir aplicações Django completas com persistência e interface administrativa.
+
+---
+
+### Módulo 4 APIs com Django REST Framework (DRF) (16 horas)
+- 4.1 Conceitos REST e arquitetura de endpoints  
+- 4.2 Serializers e validação de dados  
+- 4.3 ViewSets, Routers e rotas versionadas  
+- 4.4 Autenticação token / JWT básica  
+- 4.5 Testes de API com Postman / HTTPie  
+- 4.6 Documentação básica da API (Swagger / drf-yasg)
+
+Objetivo: Expor dados e funcionalidades do app via API segura e documentada.
+
+---
+
+### Módulo 5 Banco de Dados e Produção (10 horas)
+- 5.1 Configurar PostgreSQL local / via Docker  
+- 5.2 Migrations avançadas e índices básicos  
+- 5.3 Conexão segura (variáveis de ambiente)  
+- 5.4 Performance básica: select_related / prefetch_related  
+- 5.5 Backups e estratégias simples de restauração
+
+Objetivo: Preparar app para uso real com banco robusto e configurações de produção.
+
+---
+
+### Módulo 6 Testes, CI e Deploy (12 horas)
+- 6.1 Testes unitários com Django TestCase e pytest  
+- 6.2 GitHub Actions: pipeline básico para tests e deploy automático  
+- 6.3 Deploy em Railway/Render/Heroku: env vars, static files, collectstatic  
+- 6.4 Monitoramento básico e logs
+
+Objetivo: Entregar código confiável e automatizar fluxo de integração e publicação.
+
+---
+
+### Módulo 7 Projeto de Portfólio (22 horas)
+- 7.1 Planejamento do projeto (issues e milestones no GitHub)  
+- 7.2 Implementação incremental em branches com PRs  
+- 7.3 Testes, documentação e deploy final  
+- 7.4 Preparar README profissional, screenshots, GIFs e link do deploy  
+- 7.5 Publicação no GitHub e divulgação (LinkedIn/portfolio)
+
+Projeto sugerido: Plataforma de Blog com autenticação, editor de posts, comentários, pesquisa e API pública.
+
+Critérios de aceitação:
+- Registro/login funcional; CRUD de posts; comentários; API documentada; deploy público; README com instruções.
+
+---
+
+## Metodologia e avaliações
+
+- Método: 40% teoria curta + 60% prática hands‑on; entregas semanais no GitHub.  
+- Avaliações: quizzes ao final de cada módulo; revisão de código (peer review simulado); avaliação final baseada no projeto de portfólio.  
+- Entregáveis semanais: issue concluída, PR com descrição e screenshots, atualização do README.
+
+---
+
+## Cronograma sugerido (120 dias / 4 meses)
+
+- Meses 1–2: Módulos 0, 1, 2, 3 (fundamentos e primeiro app Django)  
+- Mês 3: Módulos 4 e 5 (API e banco)  
+- Mês 4: Módulo 6 e 7 (CI/CD, deploy e projeto final)
+
+Sugestão de carga: 10 horas/semana divididas em 5 blocos de 2 horas: 1 bloco teoria, 3 blocos hands‑on, 1 bloco revisão/GitHub.
+
+---
+
+## Planilha semanal (resumo CSV)
+
+Semana, Tema, Objetivos, Atividades, Recursos, Horas estimadas
+1, Git/GitHub inicial, Configurar Git; criar conta e repositório, Instalar Git; criar repo; commits; push/pull; README básico, DIO Git/GitHub; docs Git, 10
+2, Python fundamentos I, Sintaxe; tipos; funções, Exercícios com listas; dicts; funções; pequenos desafios, Formação Python DIO; docs Python, 10
+3, Python fundamentos II, OOP; módulos; ambiente virtual, Classes; herança; venv; pip; scripts CLI, Formação Python DIO; docs venv/pip, 10
+4, HTML/CSS básico, Estrutura e responsividade, Semântica HTML; Flexbox/Grid; criar página pessoal, DIO HTML/CSS; MDN, 10
+5, JavaScript básico, DOM; eventos; interatividade, Manipular DOM; forms; eventos; fetch básico, DIO JavaScript; MDN, 10
+6, Django setup, Projeto e app; rotas; templates, Criar projeto Django; apps; URLs; views; templates, DIO Django; docs Django, 10
+7, Django ORM, Modelos e migrações, Criar models; migrate; admin; queries básicas, DIO Django; docs ORM, 10
+8, CRUD completo, Fluxos de criação/edição, Views (FBV/CBV); formulários; validação; testes manuais, DIO Django; docs CBV, 10
+9, Autenticação, Login; registro; permissões, Auth built-in; perfis; recuperação de senha; proteção de rotas, DIO Django; docs auth, 10
+10, API com DRF, Endpoints REST; serializers, Serializers; ViewSets; routers; status codes; testes de API, DIO DRF; docs DRF, 10
+11, Banco de dados, PostgreSQL; otimização, Configurar Postgres; docker opcional; índices; explain analyze, DIO SQL; docs Postgres, 10
+12, Front + API, Consumir API; UX básico, Fetch/axios; estados de carregamento; paginação; tratamento de erros, DIO JS; MDN; docs fetch, 10
+13, GitHub avançado, Branches; PRs; gestão de issues, Fluxo GitFlow; abrir PRs; code review; project boards, DIO Git/GitHub; docs GitHub, 10
+14, Testes, Unit e integração, pytest; Django TestCase; testes de API; cobertura mínima, DIO Testes; docs pytest/Django, 10
+15, Deploy, Publicação e variáveis de ambiente, Deploy em Railway/Render/Heroku; env vars; collectstatic; CI básico, DIO Deploy; docs providers, 10
+16, Polimento e entrevistas, README; portfólio; simulações, Melhorar README; screenshots; link do deploy; simular entrevistas; criar cases, DIO Carreira; seu GitHub, 10
+
+---
+
+## Recursos recomendados
+
+- Documentação oficial: Python, Django, Django REST Framework, PostgreSQL  
+- Ferramentas: VS Code, Git, GitHub, Postman, Docker (opcional)  
+- Cursos base sugeridos: Formação Python (DIO), módulos oficiais de Django e Git/GitHub
+
+---
+
+## Guia rápido de GitHub para o curso
+
+- Criar repositório público para o projeto final  
+- Usar branches por feature: feature/nome, hotfix/nome  
+- Abrir PRs com descrição, checklist e referência a issues  
+- Manter README com: visão geral, requisitos, instruções de instalação, exemplos de uso, link do deploy e badges  
+- Usar GitHub Projects (Kanban) para organizar sprints semanais
+
+---
+
+## Templates fornecidos (sugestões para incluir no repositório)
+
+- Template de README com seções obrigatórias  
+- Template de ISSUE/PR para descrever tarefa e checklist  
+- Workflow GitHub Actions exemplo para rodar testes e deploy
+
+---
+
+## Próximos passos
+
+1. Criar repositório inicial no GitHub e subir README com sumário do curso.  
+2. Seguir Módulo 0 e Módulo 1 nas primeiras 3 semanas.  
+3. Abrir issues semanais e registrar progresso com commits pequenos.
+
+---
 
 <!--START_SECTION:footer-->
 
@@ -108,3 +227,5 @@ Após a conclusão do curso/projeto, os estudantes estarão aptos a:
     <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
+
+<!--END_SECTION:footer-->
